@@ -1,5 +1,6 @@
 # Gym-Git-Exercise-Solutions
 # Create folder and initialize git
+```bash
 `mkdir thegymgit`
 `cd thegymgit`
 `git init`
@@ -22,7 +23,7 @@
 
 # Delete test branch
 `git checkout dev`
-`git branch -d test`
+`git branch -d test` ```
 
 #Here is my other repository that i have worked on
 https://github.com/kardara/Gym-Git-Exercise-Bundle1.git  
