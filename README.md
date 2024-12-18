@@ -1,6 +1,5 @@
-# Gym-Git-Exercise-Solutions
-# Create folder and initialize git
 ```bash
+# Create folder and initialize git
 `mkdir thegymgit`
 `cd thegymgit`
 `git init`
